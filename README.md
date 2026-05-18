@@ -27,6 +27,18 @@ A simple Python game where the user tries to guess the correct number generated 
 
 ---
 
+### 3. Rent Calculator
+A basic Python application used to calculate and split house rent expenses among roommates.
+
+#### Concepts Used
+- Arithmetic Operations
+- User Input
+- Variables
+- Calculations
+- Functions
+
+---
+
 ## Technologies Used
 - Python
 
